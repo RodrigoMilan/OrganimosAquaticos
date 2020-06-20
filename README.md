@@ -14,3 +14,6 @@
 ![alt text](https://github.com/RodrigoMilan/OrganimosAquaticos/blob/master/tutorial/tutorial3.png)
 
 Pronto...
+
+Qualquer erro ou duvida de como executar entre em contato:
+milan.calegari@unesp.br
